@@ -1,1 +1,0 @@
-// Placeholder JS file for app logic
